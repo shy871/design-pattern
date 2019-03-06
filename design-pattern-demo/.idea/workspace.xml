@@ -13,68 +13,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdaptMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/AdaptMain.java">
+      <file leaf-file-name="IMobilePhone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/IMobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Adaptee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/Adaptee.java">
+      <file leaf-file-name="HuaWei.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/HuaWei.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Target.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/Target.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteTarget.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/ConcreteTarget.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/Adapter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="513">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassAdapterMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/ClassAdapterMain.java">
+      <file leaf-file-name="ObjectMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/ObjectMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="225">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -92,10 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/abstractFactory/CarAbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/abstractFactory/IEngine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/abstractFactory/IEnginImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/abstractFactory/IEngin01Impl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/abstractFactory/IEngine02Impl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/abstractFactory/ITire.java" />
@@ -138,6 +108,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/ConcreteTarget.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/Adapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/ClassAdapterMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/IMobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/HuaWei.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example01/ClassAdapterMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/IMobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/HuaWei.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/ObjectMain.java" />
       </list>
     </option>
   </component>
@@ -159,9 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,13 +224,16 @@
               <item name="shy" type="462c0819:PsiDirectoryNode" />
               <item name="stucturetype" type="462c0819:PsiDirectoryNode" />
               <item name="adapter" type="462c0819:PsiDirectoryNode" />
-              <item name="classAdapter" type="462c0819:PsiDirectoryNode" />
+              <item name="objectAdapter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassAdapterMain">
+  <component name="RunManager" selected="Application.ObjectMain">
     <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.izkml.shy.creattype.builder.BuilderMain" />
       <module name="design-pattern-demo" />
@@ -292,34 +271,34 @@
       </extension>
     </configuration>
     <configuration name="ClassAdapterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.stucturetype.adapter.classAdapter.ClassAdapterMain" />
+      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.stucturetype.adapter.classAdapter.example01.ClassAdapterMain" />
       <module name="design-pattern-demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.izkml.shy.stucturetype.adapter.classAdapter.*" />
+          <option name="PATTERN" value="com.izkml.shy.stucturetype.adapter.classAdapter.example01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FactoryMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.creattype.factoryMethod.FactoryMethodMain" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.stucturetype.adapter.classAdapter.example02.MainTest" />
       <module name="design-pattern-demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.izkml.shy.creattype.factoryMethod.*" />
+          <option name="PATTERN" value="com.izkml.shy.stucturetype.adapter.classAdapter.example02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrototypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.creattype.prototype.PrototypeMain" />
+    <configuration name="ObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.stucturetype.adapter.objectAdapter.ObjectMain" />
       <module name="design-pattern-demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.izkml.shy.creattype.prototype.*" />
+          <option name="PATTERN" value="com.izkml.shy.stucturetype.adapter.objectAdapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,19 +366,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FactoryMethodMain" />
-      <item itemvalue="Application.PrototypeMain" />
       <item itemvalue="Application.SingletonMain" />
       <item itemvalue="Application.BuilderMain" />
       <item itemvalue="Application.ClassAdapterMain" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.ObjectMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectMain" />
         <item itemvalue="Application.ClassAdapterMain" />
+        <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.BuilderMain" />
         <item itemvalue="Application.SingletonMain" />
-        <item itemvalue="Application.PrototypeMain" />
-        <item itemvalue="Application.FactoryMethodMain" />
       </list>
     </recent_temporary>
   </component>
@@ -418,12 +397,13 @@
       <workItem from="1551430422544" duration="5922000" />
       <workItem from="1551663322375" duration="5283000" />
       <workItem from="1551678287563" duration="2675000" />
-      <workItem from="1551774246680" duration="2989000" />
+      <workItem from="1551774246680" duration="3525000" />
+      <workItem from="1551834941486" duration="3977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23126000" />
+    <option name="totallyTimeSpent" value="27639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -443,7 +423,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -466,62 +446,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/abstractFactory/Car02Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/abstractFactory/AbstractFactoryMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/factoryMethod/LoggerProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/factoryMethod/DataBaseLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/factoryMethod/FileLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/factoryMethod/LoggerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/factoryMethod/FileLoggerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/factoryMethod/DataBaseLoggerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/creattype/factoryMethod/FactoryMethodMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -736,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,21 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -809,50 +712,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/ConcreteTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/Adapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example01/Adaptee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="36" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example01/ConcreteTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/ClassAdapterMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example01/Target.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/IMobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/HuaWei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example02/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example01/ClassAdapterMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/classAdapter/example01/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/IMobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/HuaWei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/stucturetype/adapter/objectAdapter/ObjectMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package com.izkml.shy.stucturetype.adapter.classAdapter;
+package com.izkml.shy.stucturetype.adapter.classAdapter.example01;
 
 /**
  * @author: shy
@@ -18,15 +18,13 @@ public class ClassAdapterMain {
 
     public static void main(String[] args){
 
-        Target target = new ConcreteTarget();
+        Target target = new Adapter();
         target.request();
 
-//        Target adapteeTarget = new Adapter();
-//        adapteeTarget.request();
 
         Adaptee adaptee = new Adapter();
         adaptee.adapteeRequest();
-        ((Adapter) adaptee).request();
+
     }
 
 }
