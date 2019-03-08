@@ -1,4 +1,4 @@
-package com.izkml.shy.stucturetype.adapter.classAdapter.example02;
+package com.izkml.shy.stucturetype.adapter.classAdapter.demo02;
 
 public interface IMobilePhone {
 

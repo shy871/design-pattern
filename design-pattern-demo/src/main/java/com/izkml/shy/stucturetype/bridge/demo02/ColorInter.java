@@ -1,4 +1,4 @@
-package com.izkml.shy.stucturetype.bridge.example02;
+package com.izkml.shy.stucturetype.bridge.demo02;
 
 public interface ColorInter {
 

@@ -1,4 +1,4 @@
-package com.izkml.shy.stucturetype.adapter.classAdapter.example01;
+package com.izkml.shy.stucturetype.adapter.classAdapter.demo01;
 
 /**
  * @author: shy
