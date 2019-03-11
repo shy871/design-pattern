@@ -13,6 +13,6 @@ public class ConcreteComponentA extends Component{
     }
 
     public void say() {
-        System.out.println("A...");
+        System.out.print(".CA.");
     }
 }
