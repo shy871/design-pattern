@@ -20,7 +20,6 @@ public class DemoClient02 {
         BigDecimal price = quoteContext.getPrice(new BigDecimal(100));
         System.out.println("折扣价为：" + price);
 
-
     }
 
 }

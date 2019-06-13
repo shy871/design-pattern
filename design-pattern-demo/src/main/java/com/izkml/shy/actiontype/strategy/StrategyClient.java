@@ -9,14 +9,13 @@ package com.izkml.shy.actiontype.strategy;
  * 　　（2）Strategy（抽象策略类）：所有策略类的父类，为所支持的策略算法声明了抽象方法。=> 既可以是抽象类也可以是接口
  * 　　（3）ConcreteStrategy（具体策略类）：实现了在抽象策略类中声明的方法。
  *
+ *      每个Context依赖于一种Strategy对象,由Strategy给出具体的算法结果
  * @create: 2019-06-12 09:06
  **/
 
 public class StrategyClient {
 
     public static void main(String[] args){
-
-
 
 
     }
