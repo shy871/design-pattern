@@ -12,49 +12,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TemplateClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/TemplateClient.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Element.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Element.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="250">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TemplateAbstract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/TemplateAbstract.java">
+      <file leaf-file-name="Visitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Visitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="200">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteVisitorA.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteVisitorA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TemplateConcrete.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/TemplateConcrete.java">
+      <file leaf-file-name="ObjectStructure.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ObjectStructure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="250">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="29" />
               <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo01Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/Demo01Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -72,16 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/MediaMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/Mediator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/ConcreteMediator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/ConcreteColleague01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/ConcreteColleague02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/Colleague.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/Mediator01Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/MediatorMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/memento/demo01/Memento.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/memento/demo01/Originator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/memento/demo01/Caretaker.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/memento/demo01/MementoClient01Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/memento/MementoMain.java" />
@@ -123,6 +110,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/TemplateAbstract.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/TemplateConcrete.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/Demo01Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/VisitorClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteElementA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteElementB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Demo01Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteVistorB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteVistorA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ObjectStructure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteVisitorA.java" />
       </list>
     </option>
   </component>
@@ -144,9 +141,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,7 +194,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shy" type="462c0819:PsiDirectoryNode" />
               <item name="actiontype" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -207,7 +204,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shy" type="462c0819:PsiDirectoryNode" />
               <item name="actiontype" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01Client (1)">
+  <component name="RunManager" selected="Application.Demo01Client (2)">
     <configuration name="Demo01Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.izkml.shy.actiontype.template.demo01.Demo01Client" />
       <module name="design-pattern-demo" />
@@ -281,6 +278,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.izkml.shy.actiontype.template.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo01Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.actiontype.visitor.demo01.Demo01Client" />
+      <module name="design-pattern-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.izkml.shy.actiontype.visitor.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,17 +333,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.izkml.shy.actiontype.strategy.demo02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StateDemo01Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.izkml.shy.actiontype.state.demo01.StateDemo01Client" />
-      <module name="design-pattern-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.izkml.shy.actiontype.state.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,19 +389,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StateDemo01Client" />
       <item itemvalue="Application.Demo02Client" />
       <item itemvalue="Application.Demo01Client" />
       <item itemvalue="Application.DemoClient02" />
       <item itemvalue="Application.Demo01Client (1)" />
+      <item itemvalue="Application.Demo01Client (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01Client (2)" />
         <item itemvalue="Application.Demo01Client (1)" />
         <item itemvalue="Application.DemoClient02" />
         <item itemvalue="Application.Demo01Client" />
         <item itemvalue="Application.Demo02Client" />
-        <item itemvalue="Application.StateDemo01Client" />
       </list>
     </recent_temporary>
   </component>
@@ -441,15 +438,16 @@
       <workItem from="1560146171708" duration="5662000" />
       <workItem from="1560237803483" duration="3380000" />
       <workItem from="1560301198328" duration="4816000" />
-      <workItem from="1560404498541" duration="2662000" />
+      <workItem from="1560404498541" duration="2663000" />
+      <workItem from="1560477295850" duration="2077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104892000" />
+    <option name="totallyTimeSpent" value="106970000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -462,11 +460,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35243243" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35243243" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24786781" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25053304" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -489,69 +487,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/command/demo01/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/command/demo01/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/command/demo01/ClientMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/MediatorMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/ConcreteMediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/ConcreteColleague01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/Colleague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/Mediator01Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/mediator/demo/Mediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/memento/demo01/Caretaker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -828,24 +763,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/TemplateAbstract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="375">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/template/demo01/TemplateConcrete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="275">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/VisitorClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteElementA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteElementB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteVisitorB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Demo01Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ObjectStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/izkml/shy/actiontype/visitor/demo01/ConcreteVisitorA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
           </folding>
         </state>
       </provider>
